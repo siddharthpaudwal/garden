@@ -1,9 +1,9 @@
 var answer;
 var score = 0;
 var backgroundImages = [];
-var details = ['Nirmita lives in amingaon' , 'Her favourite food is chocolate' , 'Her bestfriend is Puja',
-'Her nickname is mom' , 'Nirmita has intern in Graphics Desgin' , 'Nirmita loves painting a lot',
-'Nirmita is cute' , 'Nirmita is very lazy' , 'She now studies in silchar','She is now very dedicated'];
+var details = ['Pubali lives in Satgaon Narengi' , 'Her favourite food is chocolate' , 'Her roomate title is Khaklary',
+'Her hometown is Boko' , 'Pubali will do intern in Sikkim' , 'Pubali loves talking a lot',
+'Pubali is angry bird' , 'Pubali is very lazy' , 'Pubali now studies B.Pharm','Pubali is very dedicated'];
 
 function nextQuestion(){
 	const n1 = Math.floor(Math.random() * 5);
